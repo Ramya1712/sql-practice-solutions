@@ -1,5 +1,5 @@
--- Problem: Select All
--- Source: https://www.hackerrank.com/challenges/select-all/problem
+-- Problem: Query all columns for a city in CITY with the ID 1661.
+-- Source: http://hackerrank.com/challenges/select-by-id/problem?isFullScreen=true
 -- Difficulty: Easy
 
 -- 📝 Explanation:
