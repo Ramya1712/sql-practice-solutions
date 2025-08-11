@@ -3,7 +3,7 @@
 -- Difficulty: Easy
 
 -- 📝 Explanation:
--- Select Name column from CITY table where COUNTRYCODE is 'JPN'
+-- Select all columns from CITY table where COUNTRYCODE is 'JPN'
 
 
 
